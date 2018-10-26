@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">edittext</string>
+    <string name="plain_text">이름을 입력하세요.</string>
+    <string name="password_text">password</string>
+    <string name="phonenumber_text">phonenumber</string>
+    <string name="phonenumber">전화번호를 입력하세요.</string>
+    <string name="password">패스워드를 입력하세요.</string>
+</resources>
